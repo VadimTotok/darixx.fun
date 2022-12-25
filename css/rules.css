@@ -1,4 +1,4 @@
-/*Copied from style.css!!!*/
+ /*Copied from style.css!!!*/
 
 body {
     margin: 0;
@@ -125,14 +125,17 @@ h1,h2,h3,h4,h5,h6,p,ul {
 }
 
 .first__rules {
-    text-align: center;
-    transform: translateY(20px);
+    margin-left: 23px;
+    color: #e0a42f;
+    text-align:left;
+    transform: translateY(28px);
 
 }
 
 .rules__detail {
+    margin-left: 13px;
     margin-top: 5px;
-    transform: translateY(18px);
+    transform: translateY(25px);
     
 }
 
