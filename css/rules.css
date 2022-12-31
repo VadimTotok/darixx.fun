@@ -124,6 +124,11 @@ h1,h2,h3,h4,h5,h6,p,ul {
     display: block;
 }
 
+.section__rules {
+    margin-top: 8px;
+    text-align: center;
+}
+
 .first__rules {
     margin-left: 23px;
     color: #e0a42f;
