@@ -148,3 +148,7 @@ h1,h2,h3,h4,h5,h6,p,ul {
     transform: translateY(40px);
     text-align: center;
 }
+
+.punishment{
+    color: red;
+}
